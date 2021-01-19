@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Istudent" max_length="40" name="x_570202_universit_istudent" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Nome studente" mandatory="true" max_length="40" name="istudent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data inizio carriera" mandatory="true" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Data fine Carriera" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Data nascita" mandatory="true" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Paese di Nascita" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Telefono" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Codice Fiscale" mandatory="true" max_length="40" name="u_string_5" type="string"/>
+    </element>
+</database>

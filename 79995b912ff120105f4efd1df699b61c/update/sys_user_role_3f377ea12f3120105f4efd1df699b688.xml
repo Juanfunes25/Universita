@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Il proffesore che usa l'app</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_570202_universit.Professore</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Professore</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:22:23</sys_created_on>
+        <sys_id>3f377ea12f3120105f4efd1df699b688</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_570202_universit.Professore</sys_name>
+        <sys_package display_value="Universita" source="x_570202_universit">79995b912ff120105f4efd1df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Universita">79995b912ff120105f4efd1df699b61c</sys_scope>
+        <sys_update_name>sys_user_role_3f377ea12f3120105f4efd1df699b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:22:23</sys_updated_on>
+    </sys_user_role>
+</record_update>
